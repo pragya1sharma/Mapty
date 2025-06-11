@@ -3,6 +3,7 @@
 Mapty is a JavaScript-based project built as a part of JS practice to enhance DOM manipulation, geolocation, and external library integration skills. It allows users to log workouts (like running or cycling) on an interactive map powered by Leaflet.js.
 
 ✨ Features
+
 📍 Log your workouts (type, distance, duration, etc.) with coordinates on the map
 
 🗺️ Interactive maps using Leaflet.js
@@ -14,6 +15,7 @@ Mapty is a JavaScript-based project built as a part of JS practice to enhance DO
 🕹️ Dynamically rendered workout entries with details
 
 📦 Tech Stack
+
 JavaScript (ES6+)
 
 Leaflet.js
